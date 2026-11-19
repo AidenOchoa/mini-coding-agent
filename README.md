@@ -125,6 +125,9 @@ what the agent completed and what remains.
 Logs store prompt text locally. Delegated calls have their own session IDs and
 `depth: 1` records.
 
+See [demo evidence](q-learning-9b/DEMO_EVIDENCE.md) for the skill activation,
+an applied patch, and the verification results from Tuna.
+
 To run the automated tests from the agent repository:
 
 ```powershell
